@@ -1,0 +1,29 @@
+[
+  {
+    "model": "shop.Product",
+    "pk": 1,
+    "fields": {
+      "name": "Product A",
+      "price": 1000,
+      "currency": "INR"
+    }
+  },
+  {
+    "model": "shop.Product",
+    "pk": 2,
+    "fields": {
+      "name": "Product B",
+      "price": 2000,
+      "currency": "INR"
+    }
+  },
+  {
+    "model": "shop.Product",
+    "pk": 3,
+    "fields": {
+      "name": "Product C",
+      "price": 3000,
+      "currency": "INR"
+    }
+  }
+]
